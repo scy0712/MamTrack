@@ -5,7 +5,7 @@
 
 ## MamTrack:Exploring Historical Information for RGBE Visual Tracking with Mamba
 
-### :star: Our paper is accepted by CVPR2025 ! 
+### :star: Our paper has been accepted by CVPR2025 ! 
 ## Highlights
 
 ## Abstract
